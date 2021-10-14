@@ -1,0 +1,2 @@
+run = "bash replit.sh"
+language = "bash"
